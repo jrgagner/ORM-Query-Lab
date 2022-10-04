@@ -1,1 +1,1 @@
-# ORM-Query-Lab
+# DjangoQueryingLab_PY_Starter
